@@ -27,9 +27,9 @@
 	
 **1.VSCode** 
 	
- 一款由微软出品的强大的代码编辑器，搭配相应的拓展 和 开发环境，可以完成许多程序设计语言的 编写-编译-调试-部署 流程。
+ < 一款由微软出品的强大的代码编辑器，搭配相应的拓展 和 开发环境，可以完成许多程序设计语言的 编写-编译-调试-部署 流程。
 	
- 下载链接(点击页面上的Download For Windows按钮)： https://code.visualstudio.com/ 
+ < 下载链接(点击页面上的Download For Windows按钮)： https://code.visualstudio.com/ 
 	
 **2.Notepad3**
 	一款文本编辑器，可以代替老旧的 Windows记事本.
