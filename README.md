@@ -65,39 +65,39 @@
 
  
 # 改造你的设备
-	1.更换搜索引擎为微软必应(bing)
+1.更换搜索引擎为微软必应(bing)
 	
-	2.我们强烈建议你将浏览器换为 Microsoft Edge ，但并不强求。
-		对于Edge浏览器，请做到：
-		- 注册并登录你的微软账户。一个微软账户可以帮到你许多(真的很多)
-		- 将Edge主页设置为新标签页，并在新标签页右上角的设置处，关闭一切不必要的超链接和广告推送
-		- 打开垂直标签栏(视个人喜好而决定是否这么做)
+2.我们强烈建议你将浏览器换为 Microsoft Edge ，但并不强求。
+	对于Edge浏览器，请做到：
+	- 注册并登录你的微软账户。一个微软账户可以帮到你许多(真的很多)
+	- 将Edge主页设置为新标签页，并在新标签页右上角的设置处，关闭一切不必要的超链接和广告推送
+	- 打开垂直标签栏(视个人喜好而决定是否这么做)
 	
-	3.使用 Windows Terminal 替代原生的 cmd (如果你是 win11 系统，则可以无视本条)
-		- 在系统里找到"微软商店"应用，搜索Terminal，并等待安装完成
-		- 按Win+R键打开"运行'窗口
-		- 输入 wt 并回车，今后你都可以通过输入 wt 来启动 Windows Terminal
-		- 在弹出的Windwos Terminal窗口中，单击上方标签栏的齿轮按钮
-		- 进入配置页面，设置 CMD 和 Powershell 都以管理员身份运行
-		- 重启 Windows Terminal 即可
+3.使用 Windows Terminal 替代原生的 cmd (如果你是 win11 系统，则可以无视本条)
+	- 在系统里找到"微软商店"应用，搜索Terminal，并等待安装完成
+	- 按Win+R键打开"运行'窗口
+	- 输入 wt 并回车，今后你都可以通过输入 wt 来启动 Windows Terminal
+	- 在弹出的Windwos Terminal窗口中，单击上方标签栏的齿轮按钮
+	- 进入配置页面，设置 CMD 和 Powershell 都以管理员身份运行
+	- 重启 Windows Terminal 即可
 	
-	4.配置Windows自带的包管理器winget，并换源 (如果未安装Terminal,请参照数字第三条)
-		winget配置方法：
-		- 进入配置页面，设置 CMD 和 Powershell 都以管理员身份运行
-		- 重启 Windows Terminal 即可
-		- 按Win+R键打开"运行'窗口
-		- 输入 powershell 并按回车键
-		- 在弹出的Powershell窗口中按以下方式操作：
-			输入 winget source remove winget
-			按回车(ENTER)键，等待完成
-			输入 winget source add winget https://mirrors.ustc.edu.cn/winget-source --trust-level trusted
-			按回车(ENTER)键，等待完成
-		- 重启 Windwos Terminal
+4.配置Windows自带的包管理器winget，并换源 (如果未安装Terminal,请参照数字第三条)
+	winget配置方法：
+	- 进入配置页面，设置 CMD 和 Powershell 都以管理员身份运行
+	- 重启 Windows Terminal 即可
+	- 按Win+R键打开"运行'窗口
+	- 输入 powershell 并按回车键
+	- 在弹出的Powershell窗口中按以下方式操作：
+		输入 winget source remove winget
+		按回车(ENTER)键，等待完成
+		输入 winget source add winget https://mirrors.ustc.edu.cn/winget-source --trust-level trusted
+		按回车(ENTER)键，等待完成
+	- 重启 Windwos Terminal
 	
-	5.安装 Git (Git是一个非常非常非常重要的东西)
-		- 打开Terminal
-		- 输入 winget install Git.Git 并回车，等待安装完成.
+5.安装 Git (Git是一个非常非常非常重要的东西)
+	- 打开Terminal
+	- 输入 winget install Git.Git 并回车，等待安装完成.
 	
-	6.安装 NeoFetch (本项可选。不必要，但有那么一点点一点点作用)
-		- 打开Terminal
-		- 输入 winget install neofetch 并回车，等待安装完成
+6.安装 NeoFetch (本项可选。不必要，但有那么一点点一点点作用)
+	- 打开Terminal
+	- 输入 winget install neofetch 并回车，等待安装完成
