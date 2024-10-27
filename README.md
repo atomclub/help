@@ -50,9 +50,9 @@ Adobe 公司的办公应用是生产力话题永远绕不开的。我们所熟�
 Blender 和 Cinema4D 这两个应用都是建模和动画应用中的巨头，视个人喜好选择，我们推荐 Blender。
 
  
-### ToDesk
-远程控制工具，用于远程协助。
-(需要高级功能的话可以考虑使用 Parsec)
+### 向日葵 / Todesk
+远程控制工具，用于远程协助，但推荐使用前者。
+(需要高级功能的话可以考虑使用 Parsec 或 自建 RustDesk )
 
  
 ## 改造你的设备
@@ -64,10 +64,10 @@ Blender 和 Cinema4D 这两个应用都是建模和动画应用中的巨头，�
 - 将 Edge 主页设置为新标签页，并在新标签页右上角的设置处，关闭一切不必要的超链接和广告推送
 - 打开垂直标签栏 (视个人喜好而决定是否这么做)
 	
-### 3.使用 Windows Terminal 替代原生的 cmd (如果你是 win11 系统，则可以无视本条)
-- 在系统里找到"微软商店"应用，搜索 Terminal，并等待安装完成
+### 3.使用 Windows Terminal（终端） 替代原生的 cmd (如果你是 win11 系统，则可以无视本条)
+- 在系统里找到"微软商店"应用，搜索 Terminal 或 终端，并等待安装完成
 - 按 Win+R 键打开"运行'窗口
-- 输入 `wt` 并回车，今后你都可以通过输入 `wt` 来启动 Windows Terminal
+- 输入 `wt` 并回车，今后你都可以通过输入 `wt` 或“终端”来启动 Windows Terminal
 - 在弹出的 Windwos Terminal 窗口中，单击上方标签栏的齿轮按钮
 - 进入配置页面，设置 CMD 和 Powershell 都以管理员身份运行
 - 重启 Windows Terminal 即可
