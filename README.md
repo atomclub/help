@@ -26,37 +26,43 @@
   任何方面的开发都离不开专业的开发工具，以下是我们推荐的应用：	
 	
 **1.VSCode** 
-	
-> 一款由微软出品的强大的代码编辑器，搭配相应的拓展 和 开发环境，可以完成许多程序设计语言的 编写-编译-调试-部署 流程。
-	
+> 一款由微软出品的强大的代码编辑器，搭配相应的拓展 和 开发环境，可以完成许多程序设计语言的 编写-编译-调试-部署 流程。	
 > 下载链接(点击页面上的Download For Windows按钮)： https://code.visualstudio.com/ 
-	
+
+ 
 **2.Notepad3**
 > 一款文本编辑器，可以代替老旧的 Windows记事本.
-	
+
+ 
 **3.Intellij IDEA**
 > 一款适用于Java开发的IDE.下载时请选择社区版本(IDEA Community)
 > 下载链接 https://www.jetbrains.com/zh-cn/idea/download/?section=windows
 > 请在页面下滑选择 Intellij IDEA Community 下载 !!!
-	
+
+ 
 **4.DEV CPP**
 > 一款集成了C/C++运行环境的IDE，如果你只是想编写极其简单的C/C++程序，你可以选择这个.
 > 安装教程 https://zhuanlan.zhihu.com/p/599443944
-	
+
+ 
 **5.PyCharm**
 > 一款专门为Python打造的IDE，如果你是从事Python项目学习，可以选择这个.
-	
+
+ 
 **6.Adobe系列应用**
 > Adobe公司的办公应用是生产力话题永远绕不开的。我们所熟知的Ps、Pr、Ae等都属于这个“Adobe全家桶”
 > 由于某些不可抗力因素，如果你需要下载adobe系应用，我们建议优先咨询社团群管理员
-	
+
+ 
 **7.Blender或Cinema4D (即C4D)**
 > Blender和Cinema4D这两个应用都是建模和动画应用中的巨头，视个人喜好选择，我们推荐Blender。
-	
+
+ 
 **8.ToDesk**
 > 远程控制工具，用于远程协助.
 > (需要高级功能的话可以考虑使用 Parsec)
-	
+
+ 
 # 改造你的设备
 	1.更换搜索引擎为微软必应(bing)
 	
