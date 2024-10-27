@@ -13,14 +13,14 @@
 	
 ## 准备事项
 1. 如果你没有邮箱，先去注册一个来，下面用得到
-2. 如果没有微软账户，请在 [此处](https://account.microsoft.com/account)注册
-3. 如果没有 GitHub 账户，请在[此处](https://github.com/) 注册
+2. 如果没有微软账户，请在[此处](https://account.microsoft.com/account)注册
+3. 如果没有 GitHub 账户，请在[此处](https://github.com/)注册
 	
 ## 工作应用
 任何方面的开发都离不开专业的开发工具，以下是我们推荐的应用：	
 	
 ### VSCode
-一款由微软出品的强大的代码编辑器，搭配相应的拓展 和 开发环境，可以完成许多程序设计语言的 编写 - 编译 - 调试 - 部署 流程。	
+一款由微软出品的强大的代码编辑器，搭配相应的拓展 和 开发环境，可以完成许多程序设计语言的 编写 - 编译 - 调试 - 部署 流程。<br>	
 [下载链接 (点击页面上的 Download For Windows 按钮)](https://code.visualstudio.com/)
 
  
@@ -28,13 +28,13 @@
 一款文本编辑器，可以代替老旧的 Windows 记事本。
  
 ### Intellij IDEA
-一款适用于 Java 开发的 IDE. 下载时请选择社区版本 (IDEA Community)
- [下载 IntelliJ IDEA – 领先的 Java 和 Kotlin IDE](https://www.jetbrains.com/zh-cn/idea/download/?section=windows)
+一款适用于 Java 开发的 IDE. 下载时请选择社区版本 (IDEA Community)<br>
+ [下载 IntelliJ IDEA – 领先的 Java 和 Kotlin IDE](https://www.jetbrains.com/zh-cn/idea/download/?section=windows)<br>
 **请在页面下滑选择 Intellij IDEA Community 下载 !!!**
 
  
 ### DEV CPP
-一款集成了 C/C++ 运行环境的 IDE，如果你只是想编写极其简单的 C/C++ 程序，你可以选择这个。
+一款集成了 C/C++ 运行环境的 IDE，如果你只是想编写极其简单的 C/C++ 程序，你可以选择这个。<br>
 [安装教程](https://zhuanlan.zhihu.com/p/599443944)
 
  ### PyCharm
@@ -71,7 +71,7 @@ Blender 和 Cinema4D 这两个应用都是建模和动画应用中的巨头，�
 - 进入配置页面，设置 CMD 和 Powershell 都以管理员身份运行
 - 重启 Windows Terminal 即可
 	
-#### 4.配置 Windows 自带的包管理器 winget，并换源 (如果未安装 Terminal，请参照数字第三条)
+### 4.配置 Windows 自带的包管理器 winget，并换源 (如果未安装 Terminal，请参照数字第三条)
 **winget 配置方法：**
 - 进入配置页面，设置 CMD 和 Powershell 都以管理员身份运行
 - 重启 Windows Terminal 即可
